@@ -8,4 +8,3 @@ struct SwiftPracticeApp: App {   // <-- This is the entry point
         }
     }
 }
-
